@@ -1,0 +1,34 @@
+{
+  "columns": [
+    [
+      {
+        "task": "Education C++",
+        "date": "02.07.22",
+        "time": "0h:0m"
+      },
+      {
+        "task": "Education Assembler",
+        "date": "02.07.22",
+        "time": "0h:0m"
+      },
+      {
+        "task": "Education English",
+        "date": "02.07.22",
+        "time": "0h:0m"
+      },
+      {
+        "task": "Education Painting",
+        "date": "02.07.22",
+        "time": "0h:0m"
+      }
+    ],
+    [
+      {
+        "task": "Education Rust",
+        "date": "02.07.22",
+        "time": "0h:0m"
+      }
+    ],
+    []
+  ]
+}
